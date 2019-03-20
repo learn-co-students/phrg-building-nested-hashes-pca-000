@@ -1,8 +1,0 @@
-tags:
-  - nested hashes
-  - hashes
-  - code along
-languages:
-  - ruby
-resources: 0
-parent_template: git@github.com:learn-co-curriculum/building-nested-hashes.git
